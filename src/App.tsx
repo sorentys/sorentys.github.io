@@ -3,7 +3,7 @@ import "./App.css"; // Import CSS styles
 
 const App: React.FC = () => {
   return (
-    <div id="root">
+    <div>
       <header className="main-header">
         <h1>Welcome to my portfolio!</h1>
         <p>
